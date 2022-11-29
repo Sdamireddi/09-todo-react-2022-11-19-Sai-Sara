@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/09-todo-react-2022-11-19-Sai-Sara/static/css/main.68667c0e.css",
+    "main.js": "/09-todo-react-2022-11-19-Sai-Sara/static/js/main.7ee38ffc.js",
+    "index.html": "/09-todo-react-2022-11-19-Sai-Sara/index.html",
+    "main.68667c0e.css.map": "/09-todo-react-2022-11-19-Sai-Sara/static/css/main.68667c0e.css.map",
+    "main.7ee38ffc.js.map": "/09-todo-react-2022-11-19-Sai-Sara/static/js/main.7ee38ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68667c0e.css",
+    "static/js/main.7ee38ffc.js"
+  ]
+}
