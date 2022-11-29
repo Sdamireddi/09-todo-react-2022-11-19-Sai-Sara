@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/09-todo-react-2022-11-19-Sai-Sara/static/css/main.31d6cfe0.css",
+    "main.js": "/09-todo-react-2022-11-19-Sai-Sara/static/js/main.ccb021a0.js",
+    "index.html": "/09-todo-react-2022-11-19-Sai-Sara/index.html",
+    "main.ccb021a0.js.map": "/09-todo-react-2022-11-19-Sai-Sara/static/js/main.ccb021a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ccb021a0.js"
+  ]
+}
