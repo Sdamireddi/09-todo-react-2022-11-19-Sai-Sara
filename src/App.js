@@ -4,6 +4,22 @@ import NewTodo from './NewTodo';
 import Todo from './Todo';
 
 class App extends Component {
+
+  // constructor(props){
+  //   super(props);
+  //   this.state = {
+  //     todos: []
+  //   }
+  //   // set variables here
+  //   // bind event handlers/methods here
+  // }
+
+  //didMount
+  //addItem
+  //removeItem
+  //onChange
+
+
   render() {
     return (
       <div>
